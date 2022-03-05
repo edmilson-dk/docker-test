@@ -15,7 +15,7 @@ npm install
 
 ## Execute docker-compose
 
-**Using makefile for executing docker-compose**
+> Using makefile for executing docker-compose
 
 ### Docker-compose up
 
